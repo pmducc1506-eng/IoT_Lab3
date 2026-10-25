@@ -1,0 +1,28 @@
+{
+    "selected_features": [
+        "temperature_mean",
+        "temperature_min",
+        "temperature_max",
+        "humidity_min",
+        "humidity_delta",
+        "humidity_slope"
+    ],
+    "metrics": {
+        "Mean_train": {
+            "MAE": 3.0543,
+            "RMSE": 3.3893
+        },
+        "Persistence": {
+            "MAE": 0.5637,
+            "RMSE": 0.6181
+        },
+        "Ridge_21": {
+            "MAE": 0.0946,
+            "RMSE": 0.109
+        },
+        "Ridge_6": {
+            "MAE": 0.0844,
+            "RMSE": 0.0997
+        }
+    }
+}
